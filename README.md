@@ -33,3 +33,7 @@ npm install element-ui --save
 
 # 配置sass
 npm install sass-loader node-sass --save--dev
+
+# 使用hightcharts
+npm i vue-highcharts --save
+npm i highcharts --save
